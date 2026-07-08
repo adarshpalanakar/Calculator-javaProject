@@ -1,13 +1,10 @@
-
-import javax.swing.JOptionPane;
-import javax.swing.JTextField;
-
 public class Calculator extends javax.swing.JFrame {
 double num,ans;
      int cal;
     public void arithemetic_operator(){
         switch(cal){
             case 1:
+                //aaaagit //s
                 ans = num + Double.parseDouble(jTextField5.getText());
                 jTextField5.setText(Double.toString(ans));
                 break;
