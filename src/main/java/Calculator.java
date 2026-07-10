@@ -4,7 +4,7 @@ double num,ans;
     public void arithemetic_operator(){
         switch(cal){
             case 1:
-                //aaaagit //s
+                //aaaagit //sgit
                 ans = num + Double.parseDouble(jTextField5.getText());
                 jTextField5.setText(Double.toString(ans));
                 break;
