@@ -142,6 +142,7 @@ double num,ans;
                 jButton1ActionPerformed(evt);
             }
         });
+        //this is line 145 i am changing it 
 
         jButton2.setFont(new java.awt.Font("Tw Cen MT Condensed Extra Bold", 0, 13)); // NOI18N
         jButton2.setForeground(new java.awt.Color(51, 0, 51));
